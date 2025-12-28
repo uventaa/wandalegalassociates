@@ -32,7 +32,7 @@ export const legalServices = [
       "SRA matters",
       "Cooperative housing society issues",
     ],
-    image: "https://images.pexels.com/photos/7876051/pexels-photo-7876051.jpeg",
+    image: "/images/wservices/realestateconveyance.jpg",
   },
 
   {
@@ -60,7 +60,7 @@ export const legalServices = [
       "Valuation disputes",
       "Registration compliance",
     ],
-    image: "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+    image: "/images/wservices/stampduty.jpg",
   },
 
   {
@@ -105,8 +105,7 @@ export const legalServices = [
       "Cyber crime complaints",
       "Digital evidence matters",
     ],
-    image:
-      "https://img.freepik.com/free-photo/business-people-investing-startup-buiness_53876-14766.jpg",
+    image: "/images/wservices/cyber.jpg",
   },
 
   {
@@ -134,7 +133,7 @@ export const legalServices = [
       "Succession certificates",
       "Inheritance disputes",
     ],
-    image: "https://images.pexels.com/photos/3184430/pexels-photo-3184430.jpeg",
+    image: "/images/wservices/muslimlaw.jpg",
   },
 
   {
@@ -177,7 +176,7 @@ export const legalServices = [
       "Regulatory compliance",
       "Business disputes",
     ],
-    image: "https://images.pexels.com/photos/4344114/pexels-photo-4344114.jpeg",
+    image: "/images/wservices/legaladvise.jpg",
   },
 
   {
@@ -190,8 +189,7 @@ export const legalServices = [
       "Arbitration proceedings",
       "Mediation services",
     ],
-    image:
-      "https://img.freepik.com/free-photo/business-people-investing-startup-buiness_53876-14766.jpg",
+    image: "/images/wservices/arbitration.jpg",
   },
 
   {
@@ -204,7 +202,7 @@ export const legalServices = [
       "Cheque bounce cases",
       "Recovery proceedings",
     ],
-    image: "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+    image: "/images/wservices/consumerlaw.jpg",
   },
 
   {

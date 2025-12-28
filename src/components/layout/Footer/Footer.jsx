@@ -35,7 +35,7 @@ const Footer = () => {
               width={200}
               height={70}
               alt='W and A Legal Associates'
-              className='object-contain max-h-[100px] h-full w-auto ml-0'
+              className='object-contain max-h-[70px] h-full w-auto ml-0'
             />
 
             <div className='flex  gap-4 mt-2  '>
