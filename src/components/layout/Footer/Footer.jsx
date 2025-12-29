@@ -97,8 +97,8 @@ const Footer = () => {
                     rel='noopener noreferrer'
                   >
                     <p className='text-sm leading-relaxed'>
-                      107 Pancsheel Building Rizvi Builders, Opp Kurla West
-                      Depot,
+                      107 - 109, Pancsheel Building Rizvi Builders, Opp Kurla
+                      West Depot,
                       <br className='md:hidden' />
                       LBS Marg Road Kurla West Mumbai 400070
                     </p>

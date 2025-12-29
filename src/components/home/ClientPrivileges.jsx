@@ -26,14 +26,14 @@ function ClientPrivileges() {
             <div className='relative lg:w-1/2 w-full flex gap-[4%]'>
               <div className='w-[48%] rounded-lg overflow-hidden shadow-md md:h-[400px] mt-6 md:mt-8'>
                 <img
-                  src='/images/home/homeabout1.jpeg'
+                  src='/images/home/homebout2.webp'
                   alt='Legal Services'
                   className='w-full h-full object-cover'
                 />
               </div>
               <div className='w-[48%] rounded-lg overflow-hidden shadow-md block md:h-[400px] mb-6'>
                 <img
-                  src='/images/home/homeabout2.jpeg'
+                  src='/images/home/homeabout1.jpg'
                   alt='Law Consultation'
                   className='w-full h-full object-cover'
                 />

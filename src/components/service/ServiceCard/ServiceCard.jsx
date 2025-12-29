@@ -22,13 +22,20 @@ const ServiceCard = ({
           }`}
         >
           {/* Image */}
-          <div className='w-full md:w-[40%]'>
+          <div className='w-full md:w-[40%] relative'>
             <Image
               src={image}
               alt={title}
               width={450}
               height={450}
               className='rounded-md w-full h-auto object-cover'
+            />
+            <Image
+              src='/images/logo/w-icon.png'
+              alt={title}
+              width={450}
+              height={450}
+              className='rounded-md w-[80%] h-auto object-cover hidden absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] md:block opacity-10'
             />
           </div>
 

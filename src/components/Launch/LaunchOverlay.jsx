@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import "./LaunchOverlay.css";
 
 export default function LaunchOverlay() {
-  const launchTime = new Date("2025-12-28T20:11:00+05:30").getTime(); // TEST
+  const launchTime = new Date("2025-12-29T13:21:00+05:30").getTime(); // TEST
 
   const [visible, setVisible] = useState(Date.now() < launchTime);
   const [fadeOut, setFadeOut] = useState(false);

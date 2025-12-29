@@ -23,8 +23,8 @@ const Details = () => {
               target='_blank'
               rel='noopener noreferrer'
             >
-              107 Pancsheel Building, Rizvi Builders, Opp Kurla West Depot,
-              L.B.S. Marg Road, Kurla West, Mumbai 400070
+              107 - 109, Pancsheel Building, Rizvi Builders, Opp Kurla West
+              Depot, L.B.S. Marg Road, Kurla West, Mumbai 400070
             </a>
           </span>
         </p>
