@@ -103,7 +103,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang='en'>
       <body className={`${dmSans.variable} antialiased`}>
-        <LaunchOverlay />
+        {/* <LaunchOverlay /> */}
         <SmoothScroll />
         <Navbar />
         <MobileNavbar />
