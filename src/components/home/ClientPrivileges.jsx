@@ -19,7 +19,7 @@ function ClientPrivileges() {
             </div>
             {/* Mobile Heading */}
             {/* <h2 className='mb-1 lg:hidden text-2xl -mt-4 md:text-4xl font-medium text-[#040404]'>
-              <SkewFadeInWords text='Since 1997 ' />
+              <SkewFadeInWords text='Since 1998 ' />
             </h2> */}
 
             {/* Image Section */}
@@ -50,7 +50,7 @@ function ClientPrivileges() {
               </div>
               <p className='text-gray-700 max-w-2xl mx-auto mb-6 text-justify md:text-start'>
                 W & A Legal Associates is a Mumbai-based full-service law firm
-                with a legacy since 1997, built on a strong foundation of
+                with a legacy since 1998, built on a strong foundation of
                 integrity, social responsibility, and client-focused advocacy.
                 The firm delivers clear, practical, and result-oriented legal
                 solutions across diverse legal areas, combining legal expertise

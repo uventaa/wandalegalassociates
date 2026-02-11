@@ -70,6 +70,7 @@ const CardStackingMobile = () => {
           before:z-10 overflow-hidden"
         >
           <div className='col-span-2 flex flex-col items-center md:items-start md:justify-center md:pl-10 relative z-20 text-white h-max py-8 '>
+               <img src='/images/waseem-siddiqui.png' alt="Adv. Waseem Ahmed Siddiqui" className='w-full max-h-[300px] rounded-2xl object-cover object-top mb-4' />
             <h2 className='text-xl md:text-3xl font-medium text-center md:text-left mb-1 md:mb-4'>
               Adv. Waseem Ahmed Siddiqui
             </h2>
@@ -128,6 +129,7 @@ const CardStackingMobile = () => {
           before:z-10 overflow-hidden"
         >
           <div className='col-span-2 flex flex-col items-center md:items-start md:justify-center md:pl-10 h-max py-8 relative z-20 text-white'>
+             <img src='/images/anas-siddiqui.png' alt="Mohammed Anas Rahil Qamar Siddiqui" className='w-full max-h-[300px] rounded-2xl object-cover mb-4' />
             <h2 className='text-xl md:text-3xl font-medium text-center md:text-left mb-1 md:mb-4'>
               Mohammed Anas Rahil Qamar Siddiqui
             </h2>

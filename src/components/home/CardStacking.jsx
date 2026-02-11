@@ -100,6 +100,14 @@ const CardStacking = () => {
               full-service legal practice.
             </p>
           </div>
+                             {/* Image on Right */}
+          <div className='col-span-1 flex justify-center items-center z-20'>
+            <img
+              src='/images/waseem-siddiqui.png'
+              alt='Adv. Waseem Ahmed Siddiqui'
+              className='h-[250px] md:h-[300px] w-auto object-cover rounded-xl shadow-md'
+            />
+          </div>
         </div>
 
         {/* CARD TWO - Right to Left Gradient */}
@@ -155,10 +163,11 @@ const CardStacking = () => {
             </p>
           </div>
 
+ 
           {/* Image on Right */}
-          <div className='col-span-1 flex justify-center items-center z-20 invisible'>
+          <div className='col-span-1 flex justify-center items-center z-20'>
             <img
-              src='https://sps.widyatama.ac.id/wp-content/uploads/2020/08/dummy-profile-pic-male1.jpg'
+              src='/images/anas-siddiqui.png'
               alt='Anas Rahil Qamar Siddiqui'
               className='h-[250px] md:h-[300px] w-auto object-cover rounded-xl shadow-md'
             />

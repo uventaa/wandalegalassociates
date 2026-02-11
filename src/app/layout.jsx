@@ -24,10 +24,10 @@ export const viewport = {
 // SEO Metadata
 export const metadata = {
   title:
-    "W and A Legal Associates | Trusted Legal Experts in Mumbai Since 1997",
+    "W and A Legal Associates | Trusted Legal Experts in Mumbai Since 1998",
 
   description:
-    "W and A Legal Associates is a Mumbai-based full-service law firm established in 1997, offering expert legal services in civil, criminal, property, corporate, and dispute resolution matters with integrity and professionalism.",
+    "W and A Legal Associates is a Mumbai-based full-service law firm established in 1998, offering expert legal services in civil, criminal, property, corporate, and dispute resolution matters with integrity and professionalism.",
 
   keywords: [
     "W and A Legal Associates",
@@ -67,7 +67,7 @@ export const metadata = {
   openGraph: {
     title: "W and A Legal Associates | Full-Service Law Firm in Mumbai",
     description:
-      "Established in 1997, W and A Legal Associates provides ethical, practical, and result-oriented legal solutions across civil, criminal, property, corporate, and arbitration matters.",
+      "Established in 1998, W and A Legal Associates provides ethical, practical, and result-oriented legal solutions across civil, criminal, property, corporate, and arbitration matters.",
     url: "https://www.wandalegalassociates.in",
     siteName: "W and A Legal Associates",
     images: [
@@ -83,7 +83,7 @@ export const metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "W and A Legal Associates | Trusted Legal Expertise Since 1997",
+    title: "W and A Legal Associates | Trusted Legal Expertise Since 1998",
     description:
       "Mumbai-based full-service law firm delivering ethical and result-oriented legal solutions across diverse practice areas.",
     images: ["https://www.wandalegalassociates.in/ogimage.png"],

@@ -74,6 +74,7 @@ const Footer = () => {
                 <Phone className='col-span-1 w-5 h-5' />
                 <div className='col-span-10'>
                   <a href='tel:+919867799450'>+91 9867799450</a>
+                  {" "}
                   <a href='tel:+919820010809'>+91 9820010809</a>
                 </div>
               </div>

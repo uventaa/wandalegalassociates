@@ -27,7 +27,7 @@ const AboutWinshine = () => {
         <div className='mx-auto gap-4 flex flex-col text-[#040404] text-center max-w-4xl relative z-20'>
           <p className='text-justify md:text-start text-[15px] leading-relaxed'>
             W & A Legal Associates is a Mumbai-based full-service law firm
-            established in 1997, built on a strong foundation of integrity,
+            established in 1998, built on a strong foundation of integrity,
             social responsibility, and client-focused advocacy. The firm traces
             its origins to the early legal and social service initiatives of
             Advocate Waseem Ahmed Siddiqui, who actively assisted individuals

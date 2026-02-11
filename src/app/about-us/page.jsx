@@ -7,12 +7,12 @@ export const metadata = {
     "About W and A Legal Associates | Founded by Adv. Waseem Ahmed Siddiqui",
 
   description:
-    "Learn about W and A Legal Associates, a Mumbai-based full-service law firm founded by Advocate Waseem Ahmed Siddiqui in 1997, with leadership from Adv. Asim Waseem Siddiqui and a strong client-focused legal practice.",
+    "Learn about W and A Legal Associates, a Mumbai-based full-service law firm founded by Advocate Waseem Ahmed Siddiqui in 1998, with leadership from Adv. Asim Waseem Siddiqui and a strong client-focused legal practice.",
 
   openGraph: {
     title: "About W and A Legal Associates | Advocate Waseem Ahmed Siddiqui",
     description:
-      "Founded in 1997 by Adv. Waseem Ahmed Siddiqui, W and A Legal Associates delivers ethical and result-oriented legal solutions with modern legal leadership.",
+      "Founded in 1998 by Adv. Waseem Ahmed Siddiqui, W and A Legal Associates delivers ethical and result-oriented legal solutions with modern legal leadership.",
     url: "https://www.wandalegalassociates.in/about-us",
   },
 };
